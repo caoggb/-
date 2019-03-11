@@ -1,0 +1,1 @@
+将XML中的<Root></Root>标签中的数据 插入到<msg-content></msg-content>标签中
